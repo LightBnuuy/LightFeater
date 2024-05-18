@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LightFeater
+- 👋 Hi, I’m @LightBnuuy
 - 👀 I’m interested in Technologies
 - 🌱 I’m currently learning Web development
 
